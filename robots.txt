@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://imoveismarau.com.br/sitemap.xml
+Sitemap: https://marauimoveis.com.br/sitemap.xml
